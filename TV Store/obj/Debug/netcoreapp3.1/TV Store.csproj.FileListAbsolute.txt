@@ -1,0 +1,17 @@
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV Store.csproj.AssemblyReference.cache
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV_Store.AddTV.resources
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV_Store.Form1.resources
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV Store.csproj.GenerateResource.cache
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV Store.AssemblyInfoInputs.cache
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV Store.AssemblyInfo.cs
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV Store.csproj.CoreCompileInputs.cache
+C:\Users\katerina\source\repos\TV Store\bin\Debug\netcoreapp3.1\TV Store.exe
+C:\Users\katerina\source\repos\TV Store\bin\Debug\netcoreapp3.1\TV Store.deps.json
+C:\Users\katerina\source\repos\TV Store\bin\Debug\netcoreapp3.1\TV Store.runtimeconfig.json
+C:\Users\katerina\source\repos\TV Store\bin\Debug\netcoreapp3.1\TV Store.runtimeconfig.dev.json
+C:\Users\katerina\source\repos\TV Store\bin\Debug\netcoreapp3.1\TV Store.dll
+C:\Users\katerina\source\repos\TV Store\bin\Debug\netcoreapp3.1\TV Store.pdb
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV Store.dll
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV Store.pdb
+C:\Users\katerina\source\repos\TV Store\obj\Debug\netcoreapp3.1\TV Store.genruntimeconfig.cache
